@@ -1,3 +1,7 @@
 const logger = require("./logger");   
 
-console.log(logger);
+//change this to logger.log
+
+//console.log(logger);
+
+logger.log('message');
